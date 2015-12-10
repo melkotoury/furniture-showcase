@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b10a387d-caa6-4662-99d3-f54143f31019" name="Default" comment="" />
+    <list default="true" id="b10a387d-caa6-4662-99d3-f54143f31019" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/showcase/comfort.PNG" afterPath="$PROJECT_DIR$/assets/img/showcase/comfort.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/showcase/decolux.PNG" afterPath="$PROJECT_DIR$/assets/img/showcase/decolux.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/README.txt" afterPath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/about.html" afterPath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/assets/css/style.css" afterPath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/assets/js/custom.js" afterPath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/assets/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/contact.html" afterPath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/index.html" afterPath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/price.html" afterPath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/price.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/projects.html" afterPath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/projects.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/services.html" afterPath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/sidebar-right.html" afterPath="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/sidebar-right.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/README.txt" afterPath="$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/css/style.css" afterPath="$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/index.html" afterPath="$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/js/custom.js" afterPath="$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dsgn-pack/index.html" afterPath="$PROJECT_DIR$/dsgn-pack/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flooring-web/about.html" afterPath="$PROJECT_DIR$/flooring-web/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flooring-web/contact.html" afterPath="$PROJECT_DIR$/flooring-web/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flooring-web/gallery.html" afterPath="$PROJECT_DIR$/flooring-web/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flooring-web/index.html" afterPath="$PROJECT_DIR$/flooring-web/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flooring-web/single.html" afterPath="$PROJECT_DIR$/flooring-web/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flooring-web/typo.html" afterPath="$PROJECT_DIR$/flooring-web/typo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framer-web/about.html" afterPath="$PROJECT_DIR$/framer-web/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framer-web/codes.html" afterPath="$PROJECT_DIR$/framer-web/codes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framer-web/contact.html" afterPath="$PROJECT_DIR$/framer-web/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framer-web/gallery.html" afterPath="$PROJECT_DIR$/framer-web/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framer-web/index.html" afterPath="$PROJECT_DIR$/framer-web/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/furniture-mall-pack/404.html" afterPath="$PROJECT_DIR$/furniture-mall-pack/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/furniture-mall-pack/about.html" afterPath="$PROJECT_DIR$/furniture-mall-pack/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/furniture-mall-pack/contact.html" afterPath="$PROJECT_DIR$/furniture-mall-pack/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/furniture-mall-pack/details.html" afterPath="$PROJECT_DIR$/furniture-mall-pack/details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/furniture-mall-pack/gallery.html" afterPath="$PROJECT_DIR$/furniture-mall-pack/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/furniture-mall-pack/index.html" afterPath="$PROJECT_DIR$/furniture-mall-pack/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/furniture-mall-pack/services.html" afterPath="$PROJECT_DIR$/furniture-mall-pack/services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="furniture-showcase.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,44 +65,37 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4784946">
-              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.7558348">
+              <caret line="114" column="85" selection-start-line="114" selection-start-column="85" selection-end-line="114" selection-end-column="85" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/decolux-web/index.html">
+        <entry file="file://$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.692307">
-              <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$//decolux-web/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.346153">
-              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+            <state vertical-scroll-proportion="-3.2641509">
+              <caret line="438" column="53" selection-start-line="438" selection-start-column="53" selection-end-line="438" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$//comfort-pack/index.html">
+        <entry file="file://$PROJECT_DIR$/furniture-mall-pack/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+            <state vertical-scroll-proportion="-3.8490567">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,7 +107,14 @@
         <option value="$PROJECT_DIR$//comfort-pack/about.html" />
         <option value="$PROJECT_DIR$//comfort-pack/index.html" />
         <option value="$PROJECT_DIR$//decolux-web/about.html" />
+        <option value="$PROJECT_DIR$//dsgn-pack/index.html" />
+        <option value="$PROJECT_DIR$//flooring-web/about.html" />
+        <option value="$PROJECT_DIR$//framer-web/about.html" />
+        <option value="$PROJECT_DIR$//furniture-mall-pack/404.html" />
+        <option value="$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/README.txt" />
+        <option value="$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -90,7 +130,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -143,7 +183,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="decolux-web" />
+              <option name="myItemId" value="Relax-Interior-free-bootstrap-responsive-website-template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -157,7 +197,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="framer-web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,15 +211,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="showcase" />
+              <option name="myItemId" value="flooring-web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -191,6 +223,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -210,7 +243,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -321,10 +354,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/decorator-pack/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dsgn-pack/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5660377">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$//dsgn-pack/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1829267">
+          <caret line="637" column="67" selection-start-line="637" selection-start-column="67" selection-end-line="637" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$//flooring-web/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.207547">
+          <caret line="236" column="18" selection-start-line="236" selection-start-column="18" selection-end-line="236" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flooring-web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25660378">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$//framer-web/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.3207545">
+          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$//furniture-mall-pack/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.3396225">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framer-web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19245283">
+          <caret line="48" column="74" selection-start-line="48" selection-start-column="74" selection-end-line="48" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/furniture-mall-pack/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8490567">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interior-Design-Responsive-Website-Templates-Edge/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51079136">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Relax-Interior-free-bootstrap-responsive-website-template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2641509">
+          <caret line="438" column="53" selection-start-line="438" selection-start-column="53" selection-end-line="438" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4784946">
-          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.7558348">
+          <caret line="114" column="85" selection-start-line="114" selection-start-column="85" selection-end-line="114" selection-end-column="85" />
           <folding />
         </state>
       </provider>

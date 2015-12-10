@@ -1,4 +1,4 @@
-Relax – a Modern Interiors is our new Responsive website template that was created specifically to fill the gap in interior design and decoration services  Its a one page html5 template for multipurose use built with valid HTML5 & CSS3. This template is based on latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose.
+Relax ï¿½ a Modern Interiors is our new Responsive website template that was created specifically to fill the gap in interior design and decoration services  Its a one page html5 template for multipurose use built with valid HTML5 & CSS3. This template is based on latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose.
 
 Key features
 -------------
@@ -16,9 +16,9 @@ Contact Form
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
+=> Design and developed: "rootcave"  http://rootcave.com
 => Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
+=> For more free web themes: http://rootcave.com
 => Framework : http://getbootstrap.com
 
 License :

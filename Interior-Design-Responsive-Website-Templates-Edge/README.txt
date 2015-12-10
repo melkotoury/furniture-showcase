@@ -1,7 +1,7 @@
 Interior-Design-Responsive-Website-Templates-Edge
 -------
 
-Edge -  Interior Design is our new Responsive HTML5 Bootstrap theme for interior design, decoration services, interior design portfolio, Real estate, Builders, Constructions, Architecture sites and many more. This theme is fully responsive and easy to use. It’s provided with an nice responsive layer slider. This theme is easy to customize asper you requirments.
+Edge -  Interior Design is our new Responsive HTML5 Bootstrap theme for interior design, decoration services, interior design portfolio, Real estate, Builders, Constructions, Architecture sites and many more. This theme is fully responsive and easy to use. Itï¿½s provided with an nice responsive layer slider. This theme is easy to customize asper you requirments.
 
  
 Features :
@@ -19,8 +19,8 @@ Features :
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com 
-=> For more free web themes: http://webthemez.com
+=> Design and developed: "rootcave"  http://rootcave.com
+=> For more free web themes: http://rootcave.com
 => Framework : http://getbootstrap.com
 => Image: All the images are used for DEMO purous only. we are not responsible for copyrights issues.
 => http://imageion.net/
@@ -28,4 +28,4 @@ Credits :
 License :
 -------
 **Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-**Note: Please dont remove the backlink (Template by: webthemez.com) in the footer.
+**Note: Please dont remove the backlink (Template by: rootcave.com) in the footer.
