@@ -1,4 +1,4 @@
-Interior-Design-Responsive-Website-Templates-Edge
+Root Cave Show Case
 -------
 
 Edge -  Interior Design is our new Responsive HTML5 Bootstrap theme for interior design, decoration services, interior design portfolio, Real estate, Builders, Constructions, Architecture sites and many more. This theme is fully responsive and easy to use. It�s provided with an nice responsive layer slider. This theme is easy to customize asper you requirments.
